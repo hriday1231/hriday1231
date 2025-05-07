@@ -1,5 +1,6 @@
 <h1>Hi, I'm Hriday Ampavatina!</h1>
 <h2><a href="https://github.com/hriday1231/">Programmer</a>, <a href="https://www.linkedin.com/in/hriday-ampavatina/">Web Developer, and AI/ML Engineer</a></h2>
+<b>Portfolio Website: https://fridaytek.com/Hriday</b>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 <b>Habit Tracker App: https://github.com/hriday1231/Consistency-App</b>
