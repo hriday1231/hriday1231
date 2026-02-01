@@ -60,7 +60,7 @@ with 90% query success accuracy.
 
 <hr/>
 
-<h2>🛠 Supporting Engineering Projects</h2>
+<h2>Supporting Engineering Projects</h2>
 
 <b>GameForge – Multiplayer Board Game Platform (Senior Capstone)</b><br/>
 <a href="https://github.com/hriday1231/GameForge">GitHub</a> · 
