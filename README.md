@@ -1,4 +1,4 @@
-<h1>Hi, I’m Hriday Ampavatina 👋</h1>
+<h1>Hi, I’m Hriday Ampavatina </h1>
 
 <h2>
 AI / ML Engineer-in-Training · MS Artificial Intelligence @ SJSU<br/>
@@ -19,7 +19,7 @@ My interests center around <strong>recommender systems, personalization, and app
 
 <hr/>
 
-<h2>🚀 Featured AI / ML Projects</h2>
+<h2>Featured AI / ML Projects</h2>
 
 <b>Graph + NLP Hybrid Recommender System</b><br/>
 <a href="https://github.com/hriday1231/Recsys-Graph-NLP">GitHub</a> · 
@@ -49,7 +49,7 @@ with 90% query success accuracy.
 
 <hr/>
 
-<h2>🧠 Research & Technical Interests</h2>
+<h2>Research & Technical Interests</h2>
 <ul>
   <li>Recommender systems & personalization</li>
   <li>Graph neural networks and interaction graphs</li>
@@ -79,7 +79,7 @@ LLM APIs with persistent data storage and analytics.
 
 <hr/>
 
-<h2>📫 Connect</h2>
+<h2>Connect</h2>
 <p>
 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hriday-ampavatina/">linkedin.com/in/hriday-ampavatina</a><br/>
 <b>Email:</b> hridayampavatina@gmail.com
